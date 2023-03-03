@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "sequelize": "^6.29.0",
+    "sqlite3": "^5.1.4"
+  },
+  "name": "scorebotdiscord2.0",
+  "description": "",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miqueiaspcoelho/ScoreBotDiscord2.0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miqueiaspcoelho/ScoreBotDiscord2.0/issues"
+  },
+  "homepage": "https://github.com/miqueiaspcoelho/ScoreBotDiscord2.0#readme"
+}
